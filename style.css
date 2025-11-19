@@ -1,0 +1,57 @@
+*{
+    margin: 20;
+    padding: 20;
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+#title{
+    color: darkred;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: lightcyan;
+}
+.first{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 50px;}
+.professions{
+    list-style-type: square;    
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+    display: inline-block;
+    align-items: center;
+}
+.data{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    color: black;
+
+}
+.image{
+    border: 0cap;
+    margin: 0%;
+    display:inline-block
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-items: center;
+
+
+
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+}
